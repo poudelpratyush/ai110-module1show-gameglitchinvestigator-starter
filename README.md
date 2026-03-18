@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [Number guessing game, Tells user whether their guess is higher, lower or correct] Describe the game's purpose.
+- [Bug with number of tries, mismatch with guessing logic, error with starting a new game] Detail which bugs you found.
+- [fixed guessing logic, made it so that only 7 tries allowed, fixed bug so that user can start a newgame anytime] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [![alt text](image.png) ] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
